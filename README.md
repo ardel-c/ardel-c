@@ -6,11 +6,6 @@ Explore my **projects**, **publications**, and **achievements** below.
 
 ## 🚀 Projects  
 
-### 🖼️ Computer Vision  
-A collection of computer vision methods.  
-- **Skills:** Python, OpenCV  
-- **GitHub:** [Project Link](https://github.com/ardel-c/computer-vision)  
-
 ### 📝 Natural Language Processing (NLP)  
 A collection of NLP methods.  
 - **Skills:** Python, NumPy, Pandas  
@@ -26,6 +21,11 @@ A collection of audio signal processing methods.
 - **Skills:** Python, MATLAB  
 - **GitHub:** [Project Link](https://github.com/ardel-c/audio-signal-proc)  
 
+### 🖼️ Computer Vision  
+A collection of computer vision methods.  
+- **Skills:** Python, OpenCV  
+- **GitHub:** [Project Link](https://github.com/ardel-c/computer-vision)
+  
 ---
 
 ## 📰 Publications  
