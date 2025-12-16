@@ -1,6 +1,6 @@
 ## Hi there 👋
-Hi! I'm **Ardelia Christina**, a Master's student in Computer Science at the **University of Bonn** with a passion for **Data Science**, **Computer Vision**, and **Robotics**.  
-Explore my **projects**, **publications**, and **achievements** below. 
+Hi! I'm **Ardelia Christina**, a Master's student in Computer Science at the **University of Bonn** with a passion for Data Science, LLMs, and software integrations.  
+Explore my **projects** and **publications** below. 
 
 ---
 
